@@ -43,7 +43,7 @@
 
 # Change SIMSET_PATH to the directory where you installed SimSET
 # (In the current version, SIMSET_PATH cannot contain any spaces.)
-SIMSET_PATH = /2.9.2
+SIMSET_PATH = /simset_docker-main
 
 # If you are building a separated user function version of SimSET, 
 #   change SIMSET_PATH_USR to the top directory of your separate version.
