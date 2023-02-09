@@ -48,7 +48,7 @@
 
 /* The following constant must equal the number of enum types in PhgEn_IsotopeTypeTy and 
 	the number of strings in phgEn_IsotopeStr below. */
-#define NUM_ISOTOPE_TYPES	8
+#define NUM_ISOTOPE_TYPES	9
 
 
 /* TYPES */
@@ -63,7 +63,8 @@ typedef enum {
 	PhgEn_f18,
 	PhgEn_na22,
 	PhgEn_ga68,
-	PhgEn_rb82
+	PhgEn_rb82,
+	PhgEn_zr89
 } PhgEn_IsotopeTypeTy;
 
 /* Nuclide */

@@ -61,5 +61,6 @@ char *phgEn_IsotopeStr[] = {
 	"f18",
 	"na22",
 	"ga68",
-	"rb82"
+	"rb82",
+	"zr89"
 };
