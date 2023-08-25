@@ -15,6 +15,10 @@ if test -n "$dirspc"; then
     exit;
 fi
 
+mkdir -p obj
+mkdir -p bin
+mkdir -p lib
+
 # Remove any current object files
 rm -f obj/*.o
 
